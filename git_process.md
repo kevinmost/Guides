@@ -27,7 +27,7 @@ If there is work on the main repository that you'd like to pull in you'll need t
 ## Saving Work
 After you've made changes locally, you're going to want to keep your fork up to date.
 
-Commit early and commit often!
+[Commit early and commit often](https://sethrobertson.github.io/GitBestPractices/#commit)!
 
 * First we need to *add* any new files we've made
 	* ```git add -p```
